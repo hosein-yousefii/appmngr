@@ -12,4 +12,4 @@ you can use -h for help.
 # CONTRIBUTE
 
 I'm pleased to hear a few suggestion in order to improve its functionality
-contact me on my email: yousefi.hosein.o@gmail.com
+Copyright 2021 Hosein Yousefi <yousefi.hosein.o@gmail.com>
